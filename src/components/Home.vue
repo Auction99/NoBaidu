@@ -4,7 +4,7 @@
       <a href="#about">关于</a>
     </div>
     <div class="logo">
-      Luxirty Search
+      BeyBaidu
     </div>
     <div class="search-container">
       <div class="gcse-searchbox-only" data-resultsUrl="search"></div>
